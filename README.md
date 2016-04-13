@@ -25,7 +25,7 @@ When a contact is selected, the following highlight is inserted into the body of
 
 On hover over the highlight, recipients can also see the the person's email.
 
-The code is based off of the sample code at http://sdk.mixmax.com/docs/tutorial-giphy-link-preview and calls Facebook's Graph API https://developers.facebook.com/docs/graph-api/reference/event
+The code is based off of the sample code at http://sdk.mixmax.com/docs/tutorial-giphy-slash-command
 
 ### Installation
 
